@@ -43,3 +43,7 @@ document.write("<h1> Hello, <h1>");
 document.write("<p> Dear friend. <p>")
 document.write(" <br> Nice to meet u. ")
 document.write("We'll met again. <br> ")
+
+function coutdown() {
+    
+}
