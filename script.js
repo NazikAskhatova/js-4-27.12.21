@@ -1,9 +1,14 @@
 // very simple function
 // playCards
 // cookDinner
-function callFriend() {
+function callFriend(friendsName) {
+// console.log(friendsName);
 console.log('Pick up the phone');
-console.log('Type in the number');
+console.log('Type in the number of ' + friendsName);
 console.log('Press call');
-console.log('wait for the answer');
+console.log('Wait for the answer');
 }
+
+callFriend("Syrga");
+callFriend("Taazim");
+callFriend("J")
